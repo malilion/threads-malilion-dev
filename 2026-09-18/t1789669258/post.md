@@ -1,0 +1,13 @@
+# https://www.tripo3d.ai/zh-Hant/3d-prompts/models/gpt-6-astra
+
+- 時間：2026-09-18 02:20:58（Asia/Taipei）
+- 貼文 ID：`t1789669258`
+- 類型：回覆
+- 回覆對象：@malilion.dev
+- 永久連結：匯出檔未提供
+
+https://www.tripo3d.ai/zh-Hant/3d-prompts/models/gpt-6-astra
+
+歡迎加入
+碼力獅冒險公會
+https://line.me/ti/g2/4L5h_WojPl5fiCRfkUkQotGNdsch1bFN_33CQw?utm_source=invitation&utm_medium=link_copy&utm_campaign=default
