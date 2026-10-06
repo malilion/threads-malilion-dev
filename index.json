@@ -5068,5 +5068,35 @@
     "path": "2026-10-04/18145141339581350/post.md",
     "is_reply": false,
     "media_count": 1
+  },
+  {
+    "date": "2026-10-06",
+    "time": "00:55:48",
+    "timezone": "Asia/Taipei",
+    "id": "18100779269573691",
+    "title": "AI Coding 已經不只是幫你做網站了。",
+    "path": "2026-10-06/18100779269573691/post.md",
+    "is_reply": false,
+    "media_count": 2
+  },
+  {
+    "date": "2026-10-06",
+    "time": "00:55:53",
+    "timezone": "Asia/Taipei",
+    "id": "t1791219353",
+    "title": "https://github.com/jbang2004/long-wind",
+    "path": "2026-10-06/t1791219353/post.md",
+    "is_reply": true,
+    "media_count": 0
+  },
+  {
+    "date": "2026-10-06",
+    "time": "08:54:55",
+    "timezone": "Asia/Taipei",
+    "id": "18111930196873745",
+    "title": "RTX 4060 8GB 到底能不能玩本地 AI？",
+    "path": "2026-10-06/18111930196873745/post.md",
+    "is_reply": false,
+    "media_count": 2
   }
 ]
