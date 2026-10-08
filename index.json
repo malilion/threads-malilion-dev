@@ -5118,5 +5118,35 @@
     "path": "2026-10-06/18125765648496054/post.md",
     "is_reply": false,
     "media_count": 2
+  },
+  {
+    "date": "2026-10-07",
+    "time": "16:55:24",
+    "timezone": "Asia/Taipei",
+    "id": "17916167349461237",
+    "title": "這個 MV 不是 AI 生圖做的。",
+    "path": "2026-10-07/17916167349461237/post.md",
+    "is_reply": false,
+    "media_count": 1
+  },
+  {
+    "date": "2026-10-07",
+    "time": "16:55:24",
+    "timezone": "Asia/Taipei",
+    "id": "t1791363324",
+    "title": "https://github.com/malilion/riso-mv-kit",
+    "path": "2026-10-07/t1791363324/post.md",
+    "is_reply": true,
+    "media_count": 0
+  },
+  {
+    "date": "2026-10-07",
+    "time": "20:54:17",
+    "timezone": "Asia/Taipei",
+    "id": "17919425049243422",
+    "title": "Copilot 的 model picker 裡，多了一個不是模型的選項。",
+    "path": "2026-10-07/17919425049243422/post.md",
+    "is_reply": false,
+    "media_count": 1
   }
 ]
