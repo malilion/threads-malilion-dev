@@ -5188,5 +5188,105 @@
     "path": "2026-10-08/17917256376452401/post.md",
     "is_reply": false,
     "media_count": 2
+  },
+  {
+    "date": "2026-10-09",
+    "time": "10:59:08",
+    "timezone": "Asia/Taipei",
+    "id": "t1791514748",
+    "title": "酷爆了 想玩",
+    "path": "2026-10-09/t1791514748/post.md",
+    "is_reply": true,
+    "media_count": 0
+  },
+  {
+    "date": "2026-10-09",
+    "time": "11:06:35",
+    "timezone": "Asia/Taipei",
+    "id": "18170341180462690",
+    "title": "🚨 Claude 現在連動畫影片都能做了！ Anthropic 在 10 月 8 日正式推出全新動畫工具：Claude Motion。",
+    "path": "2026-10-09/18170341180462690/post.md",
+    "is_reply": false,
+    "media_count": 1
+  },
+  {
+    "date": "2026-10-09",
+    "time": "11:06:35",
+    "timezone": "Asia/Taipei",
+    "id": "t1791515195",
+    "title": "而且 Anthropic 同時推出： 📊 Claude Dashboards 透過自然語言建立即時資料儀表板。",
+    "path": "2026-10-09/t1791515195/post.md",
+    "is_reply": true,
+    "media_count": 0
+  },
+  {
+    "date": "2026-10-09",
+    "time": "11:06:35",
+    "timezone": "Asia/Taipei",
+    "id": "t1791515195-2",
+    "title": "🎁 分享兩個 Claude 動畫靈感網站！",
+    "path": "2026-10-09/t1791515195-2/post.md",
+    "is_reply": true,
+    "media_count": 0
+  },
+  {
+    "date": "2026-10-09",
+    "time": "13:04:29",
+    "timezone": "Asia/Taipei",
+    "id": "t1791522269",
+    "title": "分享實測使用Grok Bot玩Meta Muse",
+    "path": "2026-10-09/t1791522269/post.md",
+    "is_reply": false,
+    "media_count": 0
+  },
+  {
+    "date": "2026-10-09",
+    "time": "13:04:29",
+    "timezone": "Asia/Taipei",
+    "id": "t1791522269-2",
+    "title": "歡迎加入「碼力獅冒險公會」！",
+    "path": "2026-10-09/t1791522269-2/post.md",
+    "is_reply": true,
+    "media_count": 0
+  },
+  {
+    "date": "2026-10-09",
+    "time": "21:07:02",
+    "timezone": "Asia/Taipei",
+    "id": "t1791551222",
+    "title": "Check out Muse, your personal AI agent. Redeem my code in Settings within 48 hou…",
+    "path": "2026-10-09/t1791551222/post.md",
+    "is_reply": true,
+    "media_count": 0
+  },
+  {
+    "date": "2026-10-09",
+    "time": "21:11:36",
+    "timezone": "Asia/Taipei",
+    "id": "t1791551496",
+    "title": "機房報到",
+    "path": "2026-10-09/t1791551496/post.md",
+    "is_reply": true,
+    "media_count": 0
+  },
+  {
+    "date": "2026-10-09",
+    "time": "21:15:51",
+    "timezone": "Asia/Taipei",
+    "id": "t1791551751",
+    "title": "Check out Muse, your personal AI agent. Redeem my code in Settings within 48 hou…",
+    "path": "2026-10-09/t1791551751/post.md",
+    "is_reply": true,
+    "media_count": 0
+  },
+  {
+    "date": "2026-10-09",
+    "time": "21:16:44",
+    "timezone": "Asia/Taipei",
+    "id": "t1791551804",
+    "title": "撥開還是能吃的吧",
+    "path": "2026-10-09/t1791551804/post.md",
+    "is_reply": true,
+    "media_count": 0
   }
 ]
